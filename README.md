@@ -3,7 +3,7 @@
 The graduation project for Bachelor of Science, from the class of 2024 of the [_Department of Electromechanical Engineering_](https://www.fst.um.edu.mo/eme/), _University of Macau_
 
 <p align="center">by Cheney, Dechao Jiang and Bobby, Tong Zhang</p>
-<p align="center">Project Supervisor: PhD, FASME, Professor Qingsong Xu</p>
+<p align="center">Project Supervisor: PhD, FIEEE, FASME, Professor Qingsong Xu</p>
 
 Connect with us!
 
